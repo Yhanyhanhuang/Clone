@@ -1,1 +1,9 @@
-# Clone
+git clone <url>
+
+
+Cloning into '<repo>'...
+remote: Enumerating objects...
+remote: Counting objects...
+Receiving objects: 100% (files), done.
+
+cd <repo>
